@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="meuOriginSix" src=".github/preview.png" width="100%">
+  <img alt="meuOriginSix" src=".github/meuOriginSix.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
